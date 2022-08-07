@@ -3,17 +3,19 @@
 1. Прослухайте тижні 1 і 2 курсу Introduction to Git and GitHub
 <details>
 <summary>Screenshots</summary>
+  
 ![Week1](https://user-images.githubusercontent.com/91496734/183297531-f0bab5b0-6350-44da-866e-8b0a5b6e79d1.png)
 <br>
 ![Week2](https://user-images.githubusercontent.com/91496734/183297541-7f260c20-d3d8-470e-8ed4-8137fcd791aa.png)
 </details>
+
 2. Пройдіть рівні тут learngitbranching.js.org
 <details>
 <summary>Screenshots</summary>
-![LearnGit-basic] (https://user-images.githubusercontent.com/91496734/183298771-22a8be6a-3887-4499-80f6-fd217915dd76.png)
-
+  
+![LearnGit-basic](https://user-images.githubusercontent.com/91496734/183298771-22a8be6a-3887-4499-80f6-fd217915dd76.png)
 <br>
-![LearnGit] (https://user-images.githubusercontent.com/91496734/183297572-1139c0ae-fe20-42ac-8505-b1cdd5ff4c52.png)
+![LearnGit](https://user-images.githubusercontent.com/91496734/183297572-1139c0ae-fe20-42ac-8505-b1cdd5ff4c52.png)
 </details>
 3. З додаткових матеріалів дуже сподобалась стаття "How to Learn and Cope with Negative Thoughts" та навчалка "TypingClub — покращити швидкість набору на клавіатурі"
 
