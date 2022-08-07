@@ -25,8 +25,8 @@
 #### Додаткові матеріали
 </summary>
 
-- [ ] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
-- [ ] [Git за 30 хвилин](https://codeguida.com/post/453)
+- [X] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
+- [X] [Git за 30 хвилин](https://codeguida.com/post/453)
 - [ ] [Git tips](http://sixrevisions.com/web-development/git-tips/) — закріпити свої знання про Git
 - [ ] [About Merge Conflicts](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
 - [ ] [Resoilving a Merge Conflict](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
