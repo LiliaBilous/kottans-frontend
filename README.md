@@ -17,14 +17,30 @@
 <br>
 ![LearnGit](https://user-images.githubusercontent.com/91496734/183297572-1139c0ae-fe20-42ac-8505-b1cdd5ff4c52.png)
 </details>
+
 3. З додаткових матеріалів дуже сподобалась стаття "How to Learn and Cope with Negative Thoughts" та навчалка "TypingClub — покращити швидкість набору на клавіатурі"
 
 
 В принципі з GIT була знайома, але використовувала мабудь лише 10% його можливостей. В основному працювала на GitHub Desktop.
 Не знала що в GIT можна редагувати та форматувати текст(Basic writing and formatting syntax) буду використовувати :)
-#### Додаткові матеріали
-</summary>
 
+## Linux CLI, and HTTP
+
+1. Linux Survival (4 modules)
+<details>
+<summary>Screenshots</summary>
+</details>
+
+- [ ] 2. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1
+
+- [ ] 3. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2
+
+  
+  
+  
+  
+  
+#### Додаткові матеріали
 - [X] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
 - [X] [Git за 30 хвилин](https://codeguida.com/post/453)
 - [ ] [Git tips](http://sixrevisions.com/web-development/git-tips/) — закріпити свої знання про Git
@@ -35,4 +51,8 @@
 - [X] [TypingClub](https://www.typingclub.com/) — покращити швидкість набору на клавіатурі
 - [X] [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/)
 
-</details>
+- [ ] [How I taught myself to code in eight weeks](http://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
+- [ ] [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
+- [ ] [Command Line Power User](https://commandlinepoweruser.com/)
+- [ ] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+- [ ] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
