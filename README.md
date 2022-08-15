@@ -2,7 +2,7 @@
 
 ## General
 ### Git Basics
-1. Прослухайте тижні 1 і 2 курсу Introduction to Git and GitHub
+- [X] 1. Прослухайте тижні 1 і 2 курсу Introduction to Git and GitHub
 <details>
 <summary>Screenshots</summary>
   
@@ -11,7 +11,7 @@
 ![Week2](https://user-images.githubusercontent.com/91496734/183297541-7f260c20-d3d8-470e-8ed4-8137fcd791aa.png)
 </details>
 
-2. Пройдіть рівні тут learngitbranching.js.org
+- [X] 2. Пройдіть рівні тут learngitbranching.js.org
 <details>
 <summary>Screenshots</summary>
   
@@ -20,15 +20,14 @@
 ![LearnGit](https://user-images.githubusercontent.com/91496734/183297572-1139c0ae-fe20-42ac-8505-b1cdd5ff4c52.png)
 </details>
 
-3. З додаткових матеріалів дуже сподобалась стаття "How to Learn and Cope with Negative Thoughts" та навчалка "TypingClub — покращити швидкість набору на клавіатурі"
-
+- [X] 3. З додаткових матеріалів дуже сподобалась стаття "How to Learn and Cope with Negative Thoughts" та навчалка "TypingClub — покращити швидкість набору на клавіатурі"
 
 В принципі з GIT була знайома, але використовувала мабудь лише 10% його можливостей. В основному працювала на GitHub Desktop.
 Не знала що в GIT можна редагувати та форматувати текст(Basic writing and formatting syntax) буду використовувати :)
 
 ## Linux CLI, and HTTP
 
-1. Linux Survival (4 modules)
+- [X] 1. Linux Survival (4 modules)
 <details>
 <summary>Screenshots</summary>
   
@@ -49,7 +48,7 @@
 Про HTTP протоколи раніше слухала лекції [Просто Web](https://www.youtube.com/watch?v=ByJl2IcWSfc&list=PLcIcVZ3JhM-gsEmYSzhXy97jV8g5V1O3l) і щиро рекомендую їх для додаткового перегляду, дуже круті!)
   
 ## Git Collaboration
-  1. Прослухайте тижні 3 і 4 курсу Introduction to Git and GitHub.
+- [X] 1. Прослухайте тижні 3 і 4 курсу Introduction to Git and GitHub.
 
 <details>
 <summary>Screenshots</summary>
@@ -62,7 +61,7 @@
   Новим для мене був Code Reviews та поради як з ним працювати(він же і здивував). Ніколи з ним не зіштовхувалась, але розумію що потрібний і дуже зручний для роботи процес.<br>
   Планую використовувати Pull Request і вирішення конфліктів. Для PR та Conflict Resolution було багато корисних статей, що планую використовувати в разі потреби.
   
-  2. Пройдіть рівні learngitbranching.js.org.
+- [X] 2. Пройдіть рівні learngitbranching.js.org.
   
 <details>
 <summary>Screenshots</summary>
@@ -71,6 +70,14 @@
 
 ![LearnGit](https://user-images.githubusercontent.com/91496734/183297572-1139c0ae-fe20-42ac-8505-b1cdd5ff4c52.png)
 </details>
+
+## Intro to HTML & CSS
+
+- [ ] 1. Прослухайте тижні 1 і 2 (до Introduction to Responsive Design) курсу [Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+
+- [ ] 2. [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
+
+- [ ] 3. [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
 
   
 #### Додаткові матеріали
@@ -93,3 +100,12 @@
 - [X] Oh shit, git!
 - [ ] Flight rules for git
 - [ ] GitHub Skills
+- [ ] [HTML уроки (з 3 по 7 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4)
+- [ ] [CSS уроки (з 9 по 15 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4)
+- [ ] [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
+- [ ] [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
+- [ ] [freecodecamp.org](https://www.freecodecamp.org)
+- [ ] [Intro to HTML @github](https://lab.github.com/githubtraining/introduction-to-html)
+- [ ] [Can't Unsee](https://cantunsee.space/) - brilliant and useful challenge
+- [ ] [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
+
