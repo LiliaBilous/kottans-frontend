@@ -1,6 +1,7 @@
-# Front-End Course. Contents
-## Stage 0. Self-Study
-### 0. Git Basics
+# Front-End Course. Stage 0. Self-Study
+
+## General
+### Git Basics
 1. Прослухайте тижні 1 і 2 курсу Introduction to Git and GitHub
 <details>
 <summary>Screenshots</summary>
@@ -42,13 +43,35 @@
 
 - [X] 3. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2
 
-  З нового в цьому модулі: користування терміналом. Раніше ніколи не користувалась, а виявляється дуже зручна штука.
-  Здивувало, що можна переглядати/копіювати файли з чужих директорій(звісно якщо відкриті дозволи проте всеодно круто). 
-  Планую в майбутньому частіше користуватись терміналом. <br>
-  Про HTTP протоколи раніше слухала лекції [Просто Web](https://www.youtube.com/watch?v=ByJl2IcWSfc&list=PLcIcVZ3JhM-gsEmYSzhXy97jV8g5V1O3l) і щиро рекомендую їх для додаткового перегляду, дуже круті!)
+З нового в цьому модулі: користування терміналом. Раніше ніколи не користувалась, а виявляється дуже зручна штука.
+Здивувало, що можна переглядати/копіювати файли з чужих директорій(звісно якщо відкриті дозволи проте всеодно круто). 
+<br>Планую в майбутньому частіше користуватись терміналом. <br>
+Про HTTP протоколи раніше слухала лекції [Просто Web](https://www.youtube.com/watch?v=ByJl2IcWSfc&list=PLcIcVZ3JhM-gsEmYSzhXy97jV8g5V1O3l) і щиро рекомендую їх для додаткового перегляду, дуже круті!)
   
+## Git Collaboration
+  1. Прослухайте тижні 3 і 4 курсу Introduction to Git and GitHub.
+
+<details>
+<summary>Screenshots</summary>
   
+  ![week3](task_git_collaboration/Week3.png)
   
+  ![week4](task_git_collaboration/Week4.png)
+  </details>
+
+  Новим для мене був Code Reviews та поради як з ним працювати(він же і здивував). Ніколи з ним не зіштовхувалась, але розумію що потрібний і дуже зручний для роботи процес.<br>
+  Планую використовувати Pull Request і вирішення конфліктів. Для PR та Conflict Resolution було багато корисних статей, що планую використовувати в разі потреби.
+  
+  2. Пройдіть рівні learngitbranching.js.org.
+  
+<details>
+<summary>Screenshots</summary>
+  
+![LearnGit-basic](https://user-images.githubusercontent.com/91496734/183298771-22a8be6a-3887-4499-80f6-fd217915dd76.png)
+
+![LearnGit](https://user-images.githubusercontent.com/91496734/183297572-1139c0ae-fe20-42ac-8505-b1cdd5ff4c52.png)
+</details>
+
   
 #### Додаткові матеріали
 - [X] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
@@ -66,3 +89,7 @@
 - [ ] [Command Line Power User](https://commandlinepoweruser.com/)
 - [ ] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 - [ ] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+- [X] An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.
+- [X] Oh shit, git!
+- [ ] Flight rules for git
+- [ ] GitHub Skills
