@@ -1,5 +1,6 @@
-# Git та GitHub
-## 0. Git Basics
+# Front-End Course. Contents
+## Stage 0. Self-Study
+### 0. Git Basics
 1. Прослухайте тижні 1 і 2 курсу Introduction to Git and GitHub
 <details>
 <summary>Screenshots</summary>
@@ -29,13 +30,22 @@
 1. Linux Survival (4 modules)
 <details>
 <summary>Screenshots</summary>
+  
+  ![quiz1](task_linux_cli/quiz1.png)
+  ![quiz2](task_linux_cli/quiz2.png)
+  ![quiz3](task_linux_cli/quiz3.png)
+  ![quiz4](task_linux_cli/quiz4.png)
+  
 </details>
 
-- [ ] 2. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1
+- [X] 2. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1
 
-- [ ] 3. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2
+- [X] 3. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2
 
-  
+  З нового в цьому модулі: користування терміналом. Раніше ніколи не користувалась, а виявляється дуже зручна штука.
+  Здивувало, що можна переглядати/копіювати файли з чужих директорій(звісно якщо відкриті дозволи проте всеодно круто). 
+  Планую в майбутньому частіше користуватись терміналом. <br>
+  Про HTTP протоколи раніше слухала лекції [Просто Web](https://www.youtube.com/watch?v=ByJl2IcWSfc&list=PLcIcVZ3JhM-gsEmYSzhXy97jV8g5V1O3l) і щиро рекомендую їх для додаткового перегляду, дуже круті!)
   
   
   
@@ -51,8 +61,8 @@
 - [X] [TypingClub](https://www.typingclub.com/) — покращити швидкість набору на клавіатурі
 - [X] [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/)
 
-- [ ] [How I taught myself to code in eight weeks](http://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
-- [ ] [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
+- [X] [How I taught myself to code in eight weeks](http://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
+- [X] [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
 - [ ] [Command Line Power User](https://commandlinepoweruser.com/)
 - [ ] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 - [ ] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
