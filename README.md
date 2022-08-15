@@ -96,10 +96,10 @@
 - [ ] [Command Line Power User](https://commandlinepoweruser.com/)
 - [ ] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 - [ ] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
-- [X] An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.
-- [X] Oh shit, git!
-- [ ] Flight rules for git
-- [ ] GitHub Skills
+- [X] [An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.](https://youtu.be/MJUJ4wbFm_A)
+- [X] [Oh shit, git!](http://ohshitgit.com/)
+- [ ] [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+- [ ] [GitHub Skills](https://skills.github.com/)
 - [ ] [HTML уроки (з 3 по 7 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4)
 - [ ] [CSS уроки (з 9 по 15 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4)
 - [ ] [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
