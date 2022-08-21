@@ -106,6 +106,6 @@
 - [ ] [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
 - [ ] [freecodecamp.org](https://www.freecodecamp.org)
 - [ ] [Intro to HTML @github](https://lab.github.com/githubtraining/introduction-to-html)
-- [ ] [Can't Unsee](https://cantunsee.space/) - brilliant and useful challenge
-- [ ] [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
+- [X] [Can't Unsee](https://cantunsee.space/) - brilliant and useful challenge
+- [X] [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
 
