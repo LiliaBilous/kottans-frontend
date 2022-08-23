@@ -73,7 +73,14 @@
 
 ## Intro to HTML & CSS
 
-- [ ] 1. Прослухайте тижні 1 і 2 (до Introduction to Responsive Design) курсу [Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+- [X] 1. Прослухайте тижні 1 і 2 (до Introduction to Responsive Design) курсу [Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+<details>
+<summary>Screenshots</summary>
+
+![IntroHTML_week1](https://github.com/LiliaBilous/kottans-frontend/blob/main/task_html_css_intro/IntroHTML_week1.png)
+
+![IntroHTML_week2](https://github.com/LiliaBilous/kottans-frontend/blob/main/task_html_css_intro/IntroHTML_week2.png)
+</details>
 
 - [ ] 2. [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
 
@@ -102,8 +109,6 @@
 - [ ] [GitHub Skills](https://skills.github.com/)
 - [ ] [HTML уроки (з 3 по 7 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4)
 - [ ] [CSS уроки (з 9 по 15 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4)
-- [ ] [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
-- [ ] [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
 - [ ] [freecodecamp.org](https://www.freecodecamp.org)
 - [ ] [Intro to HTML @github](https://lab.github.com/githubtraining/introduction-to-html)
 - [X] [Can't Unsee](https://cantunsee.space/) - brilliant and useful challenge
