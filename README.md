@@ -82,7 +82,7 @@
 ![IntroHTML_week2](https://github.com/LiliaBilous/kottans-frontend/blob/main/task_html_css_intro/IntroHTML_week2.png)
 </details>
 
-- [ ] 2. [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
+- [X] 2. [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
 
 - [ ] 3. [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
 
@@ -107,8 +107,8 @@
 - [X] [Oh shit, git!](http://ohshitgit.com/)
 - [ ] [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 - [ ] [GitHub Skills](https://skills.github.com/)
-- [ ] [HTML уроки (з 3 по 7 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4)
-- [ ] [CSS уроки (з 9 по 15 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4)
+- [X] [HTML уроки (з 3 по 7 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4)
+- [X] [CSS уроки (з 9 по 15 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4)
 - [ ] [freecodecamp.org](https://www.freecodecamp.org)
 - [ ] [Intro to HTML @github](https://lab.github.com/githubtraining/introduction-to-html)
 - [X] [Can't Unsee](https://cantunsee.space/) - brilliant and useful challenge
