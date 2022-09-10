@@ -103,15 +103,28 @@
   
 ## Адаптивний Web Design
 
-- [ ] 1. [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)
+- [X] 1. [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)
 
-- [ ] 2. [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
+- [X] 2. [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
 
-- [ ] 3. [Flexbox Froggy](http://flexboxfroggy.com/) - гра для закріплення
+- [X] 3. [Flexbox Froggy](http://flexboxfroggy.com/) - гра для закріплення
+<details>
+<summary>Screenshots</summary>
+  
+  ![Flexbox Froggy](task_responsive_web_design/flexbox_froggy.png)
+</details>
 
-- [ ] 4. [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
+- [X] 4. [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
 
-- [ ] 5. [Grid Garden](http://cssgridgarden.com/) - гра для закріплення
+- [X] 5. [Grid Garden](http://cssgridgarden.com/) - гра для закріплення
+<details>
+<summary>Screenshots</summary>
+  
+  ![Grid Garden](task_responsive_web_design/grid_garden.png)
+</details>
+
+Якщо з Flexbox раніше я була знайома і з ним проблем нби не виникало, а то Grid були для мене мало доступні. Зараз завдяки курсам [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm) все стало набагато зрозуміліше.
+До котанів як раз зупинилась з вивченням CSS на грідах, сподіваюсь тепер я як раз зможу закрити макет по Флексам/Грідам....ну і мене чекає Hooli-style Popup
   
 #### Додаткові матеріали
 - [X] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
@@ -121,9 +134,8 @@
 - [X] [Resoilving a Merge Conflict](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
 - [X] [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 - [ ] [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
-- [X] [TypingClub](https://www.typingclub.com/) — покращити швидкість набору на клавіатурі
+- [X] [TypingClub](https://www.typingclub.com/) — покращити швидкість набору на клавіатурі 👍
 - [X] [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/)
-
 - [X] [How I taught myself to code in eight weeks](http://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
 - [X] [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
 - [ ] [Command Line Power User](https://commandlinepoweruser.com/)
@@ -137,11 +149,11 @@
 - [X] [CSS уроки (з 9 по 15 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=4)
 - [ ] [freecodecamp.org](https://www.freecodecamp.org)
 - [ ] [Intro to HTML @github](https://lab.github.com/githubtraining/introduction-to-html)
-- [X] [Can't Unsee](https://cantunsee.space/) - brilliant and useful challenge
+- [X] [Can't Unsee](https://cantunsee.space/) - brilliant and useful challenge 👍
 - [X] [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
 - [ ] [Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
 - [ ] [Specificity calculator](https://specificity.keegan.st/)
 - [ ] [11 things I learned reading the flexbox spec](https://medium.com/hackernoon/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
-- [ ] [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) (game)
+- [X] [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) (прикольна гра 👍)
 - [ ] [HiDPI Screens and Web Development](https://tech.cars.com/hidpi-screens-and-web-development-72eb9b07ce7)
 
