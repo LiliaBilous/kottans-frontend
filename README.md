@@ -83,9 +83,35 @@
 </details>
 
 - [X] 2. [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
+<details>
+<summary>Screenshots</summary>
+  
+![codecademy_HTML](task_html_css_intro/codecademy_HTML.png)
+</details>
 
-- [ ] 3. [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
+- [X] 3. [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
+<details>
+<summary>Screenshots</summary>
+  
+  ![codecademy_CSS](task_html_css_intro/codecademy_CSS.png)
+</details>
+  
+  Багато часу пішло на опрацювання всіх матеріалів, хоч практично весь матеріал знала раніше. <br>
+  З нового в HTML: функція target="blank" в посиланнях. <br>
+  З нового у CSS: підключення декількох зображень у background 😱 <br>
+  Також вперше дізналась про breakpoints в адаптивному дизайні на майбутнє планую вивчити та використовувати адаптив у своїх проектах ☺️
+  
+## Адаптивний Web Design
 
+- [ ] 1. [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)
+
+- [ ] 2. [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
+
+- [ ] 3. [Flexbox Froggy](http://flexboxfroggy.com/) - гра для закріплення
+
+- [ ] 4. [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
+
+- [ ] 5. [Grid Garden](http://cssgridgarden.com/) - гра для закріплення
   
 #### Додаткові матеріали
 - [X] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
@@ -113,4 +139,9 @@
 - [ ] [Intro to HTML @github](https://lab.github.com/githubtraining/introduction-to-html)
 - [X] [Can't Unsee](https://cantunsee.space/) - brilliant and useful challenge
 - [X] [Publish your static web site using GitHub Pages](https://lab.github.com/githubtraining/github-pages)
+- [ ] [Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
+- [ ] [Specificity calculator](https://specificity.keegan.st/)
+- [ ] [11 things I learned reading the flexbox spec](https://medium.com/hackernoon/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
+- [ ] [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) (game)
+- [ ] [HiDPI Screens and Web Development](https://tech.cars.com/hidpi-screens-and-web-development-72eb9b07ce7)
 
