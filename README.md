@@ -125,6 +125,25 @@
 
 Якщо з Flexbox раніше я була знайома і з ним проблем нби не виникало, а то Grid були для мене мало доступні. Зараз завдяки курсам [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm) все стало набагато зрозуміліше.
 До котанів як раз зупинилась з вивченням CSS на грідах, сподіваюсь тепер я як раз зможу закрити макет по Флексам/Грідам....ну і мене чекає Hooli-style Popup
+
+## HTML і CSS практика: Hooli-style Popup
+
+## JavaScript Basics
+
+1. [Вступ до JS](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4)
+
+<details>
+<summary>Screenshots</summary>
+  
+</details>
+
+2. Вправи FreeCodeCamp.
+
+<details>
+<summary>Screenshots</summary>
+  
+</details>
+
   
 #### Додаткові матеріали
 - [X] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
@@ -156,4 +175,10 @@
 - [ ] [11 things I learned reading the flexbox spec](https://medium.com/hackernoon/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 - [X] [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) (прикольна гра 👍)
 - [ ] [HiDPI Screens and Web Development](https://tech.cars.com/hidpi-screens-and-web-development-72eb9b07ce7)
-
+- [ ] - [FunFunFunction - Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+- [ ] - [Algorithms Course by Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [ ]  [Visualization of Common Algorithms and Data Structures](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [ ]  - [JavaScript Algorithms and Data Structures examples](https://github.com/trekhleb/javascript-algorithms)
+- [ ]  - [You Don't Know JS Yet: Get Started - 2nd Edition](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started)
+- [ ]  - [JavaScript Equality Table Game](https://eqeq.js.org/)
+- [ ]  - [JavaScript-Equality-Table](https://dorey.github.io/JavaScript-Equality-Table/)
