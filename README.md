@@ -125,6 +125,9 @@
 
 Якщо з Flexbox раніше я була знайома і з ним проблем нби не виникало, а то Grid були для мене мало доступні. Зараз завдяки курсам [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm) все стало набагато зрозуміліше.
 До котанів як раз зупинилась з вивченням CSS на грідах, сподіваюсь тепер я як раз зможу закрити макет по Флексам/Грідам....ну і мене чекає Hooli-style Popup
+
+##HTML і CSS практика: Hooli-style Popup
+
   
 #### Додаткові матеріали
 - [X] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
