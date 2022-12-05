@@ -128,6 +128,9 @@
 
 ## HTML і CSS практика: Hooli-style Popup
 
+[Demo](https://liliabilous.github.io/popup-practice/) |
+[Code](https://github.com/LiliaBilous/popup-practice)
+
 ## JavaScript Basics
 
 1. [Вступ до JS](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4)
