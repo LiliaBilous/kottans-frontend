@@ -75,8 +75,8 @@ body {
     transition-duration: 0.5s;
 }
 .humburger-icon {
-    width: 2.2rem;
-    height: 1.8rem;
+    width: 2rem;
+    height: 2rem;
     object-fit: cover;
 }
 .popup-menu-icon,
@@ -93,7 +93,7 @@ body {
     z-index: 2;
     top: 5rem;
     right: 1rem;
-    border: 1px solid transparent;
+    border: 2px solid transparent;
     height: 27rem;
     width: 22rem;
     background-color: rgb(202, 202, 202);
@@ -140,9 +140,9 @@ body {
 .nav-popup-label {
     display: block;
     cursor: pointer;
-    border: solid 1px rgba(0, 0, 0, 0);
-    border-radius: 0.25rem;
-    padding: 0.4375rem 0.625rem;
+    border: solid 2px rgba(0, 0, 0, 0);
+    padding: 0.5rem;
+    transition-duration: 0.5s;
 }
 .nav-popup-more-label {
     display: grid;
@@ -275,7 +275,7 @@ body {
     border-radius: 15px;
 }
 /* адаптив */
-@media (max-width: 470px) {
+@media (max-width: 500px) {
     .logo {
         visibility: hidden;
     }
