@@ -43,7 +43,7 @@ body {
     justify-content: flex-end;
     align-items: center;
 }
-.nav-item {
+.nav-item, .nav-burger {
     margin: 0 0.5rem;
     background-color: rgba(232, 234, 237, .08);
 }
@@ -141,7 +141,7 @@ body {
     display: block;
     cursor: pointer;
     border: solid 2px rgba(0, 0, 0, 0);
-    border-radius: 0.25rem;
+    transition-duration: 0.5s;
     padding: 0.5rem;
 }
 .nav-popup-more-label {
