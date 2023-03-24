@@ -133,19 +133,29 @@
 
 ## JavaScript Basics
 
-1. [Вступ до JS](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4)
+- [X] 1. [Вступ до JS](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4)
 
 <details>
 <summary>Screenshots</summary>
+
+  ![Basic JavaScript](task_js_basics/JSBasic_coursera.jpg)
   
 </details>
 
 2. Вправи FreeCodeCamp.
-
+ - [X] Basic JavaScript 
+ - [X] ES6 Challenges. Виконайте початкові 17 вправ.
+ - [ ] Basic Data Structures
+ - [ ] Basic Algorithm Scripting
+ - [ ] Functional Programming
+ - [ ] Algorithm Scripting Challenges. Розв’яжіть початкові 11 задач.
+ 
 <details>
 <summary>Screenshots</summary>
-  
-![Basic JavaScript](task_js_basics/jsBasic.png)
+
+ ![Basic JavaScript](task_js_basics/jsBasic.png)
+ ![Basic JavaScript](task_js_basics/FCC_JS_ES6.jpg)
+ 
 </details>
 
   
