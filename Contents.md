@@ -3,13 +3,13 @@
 Підготовчий етап Front-End Course. Слід виконати наступні завдання, щоб приєднатися до головної частини курсу.
 
 ### General
-- [X] 0. [Git Basics](tasks/git-intro.md)
- - [ ] 1. [Linux CLI and Networking](tasks/linux-cli-http.md)
- - [ ] 2. [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
+ - [X] 0. [Git Basics](tasks/git-intro.md)
+ - [X] 1. [Linux CLI and Networking](tasks/linux-cli-http.md)
+ - [X] 2. [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
 ### Front-End Basics
- - [ ] 3. [Intro to HTML & CSS](tasks/html-css-intro.md)
- - [ ] 4. [Responsive Web Design](tasks/html-css-responsive.md)
- - [ ] 5. [HTML & CSS Practice](tasks/html-css-popup.md)
+ - [X] 3. [Intro to HTML & CSS](tasks/html-css-intro.md)
+ - [X] 4. [Responsive Web Design](tasks/html-css-responsive.md)
+ - [X] 5. [HTML & CSS Practice](tasks/html-css-popup.md)
  - [ ] 6. [JavaScript Basics](tasks/js-basics.md)
  - [ ] 7. [Document Object Model](tasks/js-dom.md) - practice
 ### Advanced Topics
