@@ -145,8 +145,8 @@
 2. Вправи FreeCodeCamp.
  - [X] Basic JavaScript 
  - [X] ES6 Challenges. Виконайте початкові 17 вправ.
- - [ ] Basic Data Structures
- - [ ] Basic Algorithm Scripting
+ - [X] Basic Data Structures
+ - [X] Basic Algorithm Scripting
  - [ ] Functional Programming
  - [ ] Algorithm Scripting Challenges. Розв’яжіть початкові 11 задач.
  
@@ -189,10 +189,10 @@
 - [ ] [11 things I learned reading the flexbox spec](https://medium.com/hackernoon/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 - [X] [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) (прикольна гра 👍)
 - [ ] [HiDPI Screens and Web Development](https://tech.cars.com/hidpi-screens-and-web-development-72eb9b07ce7)
-- [ ] - [FunFunFunction - Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
-- [ ] - [Algorithms Course by Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
-- [ ]  [Visualization of Common Algorithms and Data Structures](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-- [ ]  - [JavaScript Algorithms and Data Structures examples](https://github.com/trekhleb/javascript-algorithms)
-- [ ]  - [You Don't Know JS Yet: Get Started - 2nd Edition](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started)
-- [ ]  - [JavaScript Equality Table Game](https://eqeq.js.org/)
-- [ ]  - [JavaScript-Equality-Table](https://dorey.github.io/JavaScript-Equality-Table/)
+- [ ] [FunFunFunction - Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+- [ ] [Algorithms Course by Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [ ] [Visualization of Common Algorithms and Data Structures](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [ ] [JavaScript Algorithms and Data Structures examples](https://github.com/trekhleb/javascript-algorithms)
+- [ ] [You Don't Know JS Yet: Get Started - 2nd Edition](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started)
+- [ ] [JavaScript Equality Table Game](https://eqeq.js.org/)
+- [ ] [JavaScript-Equality-Table](https://dorey.github.io/JavaScript-Equality-Table/)
