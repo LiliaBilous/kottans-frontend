@@ -155,6 +155,8 @@
 
  ![Basic JavaScript](task_js_basics/jsBasic.png)
  ![Basic JavaScript](task_js_basics/FCC_JS_ES6.jpg)
+ ![Basic JavaScript](task_js_basics/FCC_JS_BDS.jpg)
+ ![Basic JavaScript](task_js_basics/FCC_JS_BasicAlgorithmScripting.png)
  
 </details>
 
@@ -189,7 +191,7 @@
 - [ ] [11 things I learned reading the flexbox spec](https://medium.com/hackernoon/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 - [X] [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) (прикольна гра 👍)
 - [ ] [HiDPI Screens and Web Development](https://tech.cars.com/hidpi-screens-and-web-development-72eb9b07ce7)
-- [ ] [FunFunFunction - Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+- [X] [FunFunFunction - Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) 👍
 - [ ] [Algorithms Course by Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ] [Visualization of Common Algorithms and Data Structures](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [ ] [JavaScript Algorithms and Data Structures examples](https://github.com/trekhleb/javascript-algorithms)
