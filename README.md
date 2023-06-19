@@ -153,7 +153,7 @@
 <details>
 <summary>Screenshots</summary>
 
- ![Basic JavaScript](task_js_basics/jsBasic.png)
+ ![Basic JavaScript](task_js_basics/FCC_JS_jsBasic.png)
  ![Basic JavaScript](task_js_basics/FCC_JS_ES6.jpg)
  ![Basic JavaScript](task_js_basics/FCC_JS_BDS.jpg)
  ![Basic JavaScript](task_js_basics/FCC_JS_BasicAlgorithmScripting.png)
