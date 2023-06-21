@@ -147,7 +147,7 @@
  - [X] ES6 Challenges. Виконайте початкові 17 вправ.
  - [X] Basic Data Structures
  - [X] Basic Algorithm Scripting
- - [ ] Functional Programming
+ - [X] Functional Programming
  - [ ] Algorithm Scripting Challenges. Розв’яжіть початкові 11 задач.
  
 <details>
@@ -157,6 +157,7 @@
  ![Basic JavaScript](task_js_basics/FCC_JS_ES6.jpg)
  ![Basic JavaScript](task_js_basics/FCC_JS_BDS.jpg)
  ![Basic JavaScript](task_js_basics/FCC_JS_BasicAlgorithmScripting.png)
+ ![Basic JavaScript](task_js_basics/FCC_JS_FunctionalProgramming.png)
  
 </details>
 
