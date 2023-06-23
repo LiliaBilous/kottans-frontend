@@ -149,23 +149,23 @@
 </details>
 
 2. Вправи FreeCodeCamp.
-
-- [x] Basic JavaScript
-- [x] ES6 Challenges. Виконайте початкові 17 вправ.
-- [x] Basic Data Structures
-- [x] Basic Algorithm Scripting
-- [ ] Functional Programming
-- [ ] Algorithm Scripting Challenges. Розв’яжіть початкові 11 задач.
-
+ - [X] Basic JavaScript 
+ - [X] ES6 Challenges. Виконайте початкові 17 вправ.
+ - [X] Basic Data Structures
+ - [X] Basic Algorithm Scripting
+ - [ ] Functional Programming
+ - [ ] Algorithm Scripting Challenges. Розв’яжіть початкові 11 задач.
+ 
 <details>
 <summary>Screenshots</summary>
 
-![Basic JavaScript](task_js_basics/FCC_JS_jsBasic.png)
-![Basic JavaScript](task_js_basics/FCC_JS_ES6.jpg)
-![Basic JavaScript](task_js_basics/FCC_JS_BDS.jpg)
-![Basic JavaScript](task_js_basics/FCC_JS_BasicAlgorithmScripting.png)
-
+ ![Basic JavaScript](task_js_basics/FCC_JS_jsBasic.png)
+ ![Basic JavaScript](task_js_basics/FCC_JS_ES6.jpg)
+ ![Basic JavaScript](task_js_basics/FCC_JS_BDS.jpg)
+ ![Basic JavaScript](task_js_basics/FCC_JS_BasicAlgorithmScripting.png)
+ 
 </details>
+
 
 #### Додаткові матеріали
 
