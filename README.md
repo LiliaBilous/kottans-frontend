@@ -5,22 +5,19 @@
 ### Git Basics
 
 - [x] 1. Прослухайте тижні 1 і 2 курсу Introduction to Git and GitHub
-  <details>
+<details>
   <summary>Screenshots</summary>
-
-![Week1](https://user-images.githubusercontent.com/91496734/183297531-f0bab5b0-6350-44da-866e-8b0a5b6e79d1.png)
-<br>
-![Week2](https://user-images.githubusercontent.com/91496734/183297541-7f260c20-d3d8-470e-8ed4-8137fcd791aa.png)
-
+  
+  ![Week1](task_git_collaboration/Week1.png)
+  ![Week2](task_git_collaboration/Week2.png)
 </details>
 
 - [x] 2. Пройдіть рівні тут learngitbranching.js.org
-  <details>
+<details>
   <summary>Screenshots</summary>
-
-![LearnGit-basic](https://user-images.githubusercontent.com/91496734/183298771-22a8be6a-3887-4499-80f6-fd217915dd76.png)
-<br>
-![LearnGit](https://user-images.githubusercontent.com/91496734/183297572-1139c0ae-fe20-42ac-8505-b1cdd5ff4c52.png)
+  
+  ![LearnGitBasic](task_git_collaboration/LearnGitBasic.png)
+  ![LearnGit](task_git_collaboration/LearnGit.png)
 
 </details>
 
@@ -32,8 +29,9 @@
 ### Linux CLI, and HTTP
 
 - [x] 1. Linux Survival (4 modules)
-  <details>
+<details>
   <summary>Screenshots</summary>
+
   ![quiz1](task_linux_cli/quiz1.png)
   ![quiz2](task_linux_cli/quiz2.png)
   ![quiz3](task_linux_cli/quiz3.png)
@@ -55,12 +53,11 @@
 - [x] 1. Прослухайте тижні 3 і 4 курсу Introduction to Git and GitHub.
 
 <details>
-<summary>Screenshots</summary>
+  <summary>Screenshots</summary>
   
   ![week3](task_git_collaboration/Week3.png)
-  
   ![week4](task_git_collaboration/Week4.png)
-  </details>
+</details>
 
 Новим для мене був Code Reviews та поради як з ним працювати(він же і здивував). Ніколи з ним не зіштовхувалась, але розумію що потрібний і дуже зручний для роботи процес.<br>
 Планую використовувати Pull Request і вирішення конфліктів. Для PR та Conflict Resolution було багато корисних статей, що планую використовувати в разі потреби.
@@ -68,39 +65,38 @@
 - [x] 2. Пройдіть рівні learngitbranching.js.org.
 
 <details>
-<summary>Screenshots</summary>
+  <summary>Screenshots</summary>
   
-![LearnGit-basic](https://user-images.githubusercontent.com/91496734/183298771-22a8be6a-3887-4499-80f6-fd217915dd76.png)
-
-![LearnGit](https://user-images.githubusercontent.com/91496734/183297572-1139c0ae-fe20-42ac-8505-b1cdd5ff4c52.png)
+  ![LearnGitBasic](task_git_collaboration/LearnGitBasic.png)
+  ![LearnGit](task_git_collaboration/LearnGit.png)
 
 </details>
 
 ### Intro to HTML & CSS
 
 - [x] 1. Прослухайте тижні 1 і 2 (до Introduction to Responsive Design) курсу [Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
-  <details>
+<details>
   <summary>Screenshots</summary>
 
-![IntroHTML_week1](https://github.com/LiliaBilous/kottans-frontend/blob/main/task_html_css_intro/IntroHTML_week1.png)
-
-![IntroHTML_week2](https://github.com/LiliaBilous/kottans-frontend/blob/main/task_html_css_intro/IntroHTML_week2.png)
+  ![IntroHTML_week1](task_html_css_intro/IntroHTML_week1.png)
+  ![IntroHTML_week2](task_html_css_intro/IntroHTML_week2.png)
 
 </details>
 
 - [x] 2. [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
-  <details>
+<details>
   <summary>Screenshots</summary>
 
-![codecademy_HTML](task_html_css_intro/codecademy_HTML.png)
+  ![codecademy_HTML](task_html_css_intro/codecademy_HTML.png)
 
 </details>
 
 - [x] 3. [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
-  <details>
+<details>
   <summary>Screenshots</summary>
+  
   ![codecademy_CSS](task_html_css_intro/codecademy_CSS.png)
-  </details>
+</details>
     
     Багато часу пішло на опрацювання всіх матеріалів, хоч практично весь матеріал знала раніше. <br>
     З нового в HTML: функція target="blank" в посиланнях. <br>
@@ -115,19 +111,20 @@
 - [x] 2. [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
 
 - [x] 3. [Flexbox Froggy](http://flexboxfroggy.com/) - гра для закріплення
-  <details>
+<details>
   <summary>Screenshots</summary>
 
   ![Flexbox Froggy](task_responsive_web_design/flexbox_froggy.png)
-  </details>
+</details>
 
 - [x] 4. [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
 
 - [x] 5. [Grid Garden](http://cssgridgarden.com/) - гра для закріплення
-  <details>
+<details>
   <summary>Screenshots</summary>
+  
   ![Grid Garden](task_responsive_web_design/grid_garden.png)
-  </details>
+</details>
 
 Якщо з Flexbox раніше я була знайома і з ним проблем нби не виникало, а то Grid були для мене мало доступні. Зараз завдяки курсам [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm) все стало набагато зрозуміліше.
 До котанів як раз зупинилась з вивченням CSS на грідах, сподіваюсь тепер я як раз зможу закрити макет по Флексам/Грідам....ну і мене чекає Hooli-style Popup
@@ -142,9 +139,9 @@
 - [x] 1. [Вступ до JS](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4)
 
 <details>
-<summary>Screenshots</summary>
+  <summary>Screenshots</summary>
 
-![Basic JavaScript](task_js_basics/JSBasic_coursera.jpg)
+  ![Basic JavaScript](task_js_basics/JSBasic_coursera.jpg)
 
 </details>
 
@@ -153,16 +150,16 @@
  - [X] ES6 Challenges. Виконайте початкові 17 вправ.
  - [X] Basic Data Structures
  - [X] Basic Algorithm Scripting
- - [ ] Functional Programming
+ - [X] Functional Programming
  - [ ] Algorithm Scripting Challenges. Розв’яжіть початкові 11 задач.
  
 <details>
-<summary>Screenshots</summary>
+  <summary>Screenshots</summary>
 
- ![Basic JavaScript](task_js_basics/FCC_JS_jsBasic.png)
- ![Basic JavaScript](task_js_basics/FCC_JS_ES6.jpg)
- ![Basic JavaScript](task_js_basics/FCC_JS_BDS.jpg)
- ![Basic JavaScript](task_js_basics/FCC_JS_BasicAlgorithmScripting.png)
+   ![Basic JavaScript](task_js_basics/FCC_JS_jsBasic.png)
+   ![Basic JavaScript](task_js_basics/FCC_JS_ES6.jpg)
+   ![Basic JavaScript](task_js_basics/FCC_JS_BDS.jpg)
+   ![Basic JavaScript](task_js_basics/FCC_JS_BasicAlgorithmScripting.png)
  
 </details>
 
