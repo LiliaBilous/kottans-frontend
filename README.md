@@ -157,9 +157,10 @@
   <summary>Screenshots</summary>
 
    ![Basic JavaScript](task_js_basics/FCC_JS_jsBasic.png)
-   ![Basic JavaScript](task_js_basics/FCC_JS_ES6.jpg)
-   ![Basic JavaScript](task_js_basics/FCC_JS_BDS.jpg)
-   ![Basic JavaScript](task_js_basics/FCC_JS_BasicAlgorithmScripting.png)
+   ![ES6](task_js_basics/FCC_JS_ES6.jpg)
+   ![Basic Data Structures](task_js_basics/FCC_JS_BDS.jpg)
+   ![Basic Algorithm Scripting](task_js_basics/FCC_JS_BasicAlgorithmScripting.png)
+   ![Functional Programming](task_js_basics/FCC_JS_FunctionalProgramming.png)
  
 </details>
 
