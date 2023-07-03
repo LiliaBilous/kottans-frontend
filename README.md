@@ -153,7 +153,7 @@
  - [X] Basic Data Structures
  - [X] Basic Algorithm Scripting
  - [X] Functional Programming
- - [ ] Algorithm Scripting Challenges. Розв’яжіть початкові 11 задач.
+ - [X] Algorithm Scripting Challenges. Розв’яжіть початкові 11 задач.
  
 <details>
   <summary>Screenshots</summary>
@@ -163,6 +163,7 @@
    ![Basic Data Structures](task_js_basics/FCC_JS_BDS.jpg)
    ![Basic Algorithm Scripting](task_js_basics/FCC_JS_BasicAlgorithmScripting.png)
    ![Functional Programming](task_js_basics/FCC_JS_FunctionalProgramming.png)
+   ![Algorithm Scripting Challenges](task_js_basics/FCC_JS_IntermediateAlgorithmScripting.png)
  
 </details>
 
