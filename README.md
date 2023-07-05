@@ -187,7 +187,26 @@
 
 
 ## 7.Document Object Model - practice
+Дізнайтеся деякі frontend основи про DOM API:
+- [ ] 1. Прослухайте тільки розділ Document Object Model Manipulation.
 
+<details>
+  <summary>Screenshots</summary>
+
+</details>
+
+- [ ] 2. Freecodecamp Algorithm Scripting Challenges.
+закінчити завдання 12..18 (Sum All Odd Fibonacci Numbers до Everything Be True).
+
+<details>
+  <summary>Screenshots</summary>
+
+</details>
+
+- [ ] 3.then() Практичне завдання:
+
+[Demo]( ) |
+[Code]( )
 
 # Advanced Topics
 #### Додаткові матеріали
