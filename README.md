@@ -188,11 +188,12 @@
 
 ## 7.Document Object Model - practice
 Дізнайтеся деякі frontend основи про DOM API:
-- [ ] 1. Прослухайте тільки розділ Document Object Model Manipulation.
+- [X] 1. Прослухайте тільки розділ [Document Object Model Manipulation](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/5)
 
 <details>
   <summary>Screenshots</summary>
-
+  
+  ![JavaScript DOM](task_js_dom/coursera_week5.jpg)
 </details>
 
 - [ ] 2. Freecodecamp Algorithm Scripting Challenges.
