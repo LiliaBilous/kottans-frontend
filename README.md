@@ -249,3 +249,5 @@
 - [ ] [You Don't Know JS Yet: Get Started - 2nd Edition](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started)
 - [ ] [JavaScript Equality Table Game](https://eqeq.js.org/)
 - [ ] [JavaScript-Equality-Table](https://dorey.github.io/JavaScript-Equality-Table/)
+- [ ] [The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery)](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/)
+- [ ] [JavaScript DOM Crash Course by Brad Traversy](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
