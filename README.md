@@ -172,7 +172,7 @@
 
  - пройшла курс на CodeCademy;
  - багато чого читала/вивчала теорії з сайтів javascript.info та developer.mozilla.org;
- - пройшла повний курс з JavaScript на FreeCodeCamp (як на мене дуже крутий курс і класна можливість отримати безкоштовний сертифікат);
+ - пройшла повний курс з JavaScript на FreeCodeCamp (як на мене дуже крутий курс і класна можливість отримати безкоштовний [сертифікат](https://www.freecodecamp.org/certification/fccbc39f6ee-045a-4aae-9dd2-802d7bdbe5d5/javascript-algorithms-and-data-structures) );
  - та для практики розвязувала задачі на codewars.com.
    
 І нехай я доволі багато часу відвела саме на цей модуль та JavaScript в цілому, щодня я все ще вивчаю щось нове з JS і це круто!)
@@ -196,12 +196,13 @@
   ![JavaScript DOM](task_js_dom/coursera_week5.jpg)
 </details>
 
-- [ ] 2. Freecodecamp Algorithm Scripting Challenges.
+- [X] 2. Freecodecamp Algorithm Scripting Challenges.
 закінчити завдання 12..18 (Sum All Odd Fibonacci Numbers до Everything Be True).
 
 <details>
   <summary>Screenshots</summary>
-
+  
+  ![JavaScript DOM](task_js_dom/FCC_JS_IntermediateAlgorithm12-18.png)
 </details>
 
 - [ ] 3.then() Практичне завдання:
@@ -248,3 +249,5 @@
 - [ ] [You Don't Know JS Yet: Get Started - 2nd Edition](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started)
 - [ ] [JavaScript Equality Table Game](https://eqeq.js.org/)
 - [ ] [JavaScript-Equality-Table](https://dorey.github.io/JavaScript-Equality-Table/)
+- [ ] [The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery)](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/)
+- [ ] [JavaScript DOM Crash Course by Brad Traversy](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
