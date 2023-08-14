@@ -105,5 +105,42 @@ window.addEventListener("DOMContentLoaded", () => {
   const menu = document.querySelector(".side-menu");
   const menuBurger = document.querySelector(".header__burger");
   const content = document.querySelector(".main__content-block");
+  const activeItem = menuItem.classList.add("active");
   
+  function hideMenuItemsActive() {
+    menuItem.forEach((element) => {
+      element.classList.remove("side-menu__link__active");
+    });
+  }
+
+  function showMenuItemActive() {
+    
+  }
+
+  menuItem.addEventListener("click", showMenuItemActive);
+ 
+  
+
 })
+// addEventListener  слідкує за кліком 
+// навішує клас active
+// виконує функцію що змінює контент
+// Створити блок для контенту
+{/* 
+ <div class="content__img-holder">
+  <img src="/img/everest.jpg" alt="Everest" class="content-img" />
+</div>
+<div class="content-text">
+  <h2 class="content-title">Everest</h2>
+  <div class="content__info">
+    <div class="content__param">Висота:</div>
+    <div class="content__value">8848 м</div>
+  </div>
+  <div class="content__info">
+    <div class="content__param">Розташування:</div>
+    <div class="content__value">Непал/Китай</div>
+  </div>
+  <p class="content__description">
+    Еверест , Джомолунгма або Сагарматха, найвища гора у світі.
+  </p>
+</div> */}
