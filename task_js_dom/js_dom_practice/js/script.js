@@ -2,7 +2,7 @@ window.addEventListener("DOMContentLoaded", () => {
   const sideMenuUl = document.querySelector(".side-menu__navigation-list");
   const contentBlock = document.querySelector(".main__content-block");
   const menuLink = document.querySelector(".side-menu__navigation-item");
-  let mountId = 0;
+  let mountains = [];
   
   function menu_template({ id, title }) {
     return `<li class="side-menu__navigation-item"><button class="side-menu__link" data-id=${id}>${title}</button></li>\n`;
@@ -43,15 +43,16 @@ window.addEventListener("DOMContentLoaded", () => {
   }
 
   function renderContent(mountain) {
+    contentBlock.textContent = '';
     contentBlock.insertAdjacentHTML("beforeend", contentTemplate(mountain));
   }
 
-  function clickedId (event) {
-    mountId = event.target.getAttribute("data-id");
-    console.log(mountId);
-    
+  function displaySelectedMountain (event) {
+    let mountainId = event.target.getAttribute("data-id");
+    let selectedMountain = mountains.find((el) => el.id == mountainId);
+    renderContent(selectedMountain);
   }
-  sideMenuUl.addEventListener("click", clickedId)
+  sideMenuUl.addEventListener("click", displaySelectedMountain)
 
 
   fetch("/js/mountains.json")
@@ -60,9 +61,9 @@ window.addEventListener("DOMContentLoaded", () => {
     })
     .then((data) => {
       // console.log(data);
-      renderMenu(data);
-      renderContent(data[0]);
+      mountains = data;
+      renderMenu(mountains);
+      renderContent(mountains[0]);
     })
     .catch((error) => console.log(error));
-    
 });
