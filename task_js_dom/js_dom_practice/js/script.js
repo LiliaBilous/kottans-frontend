@@ -11,8 +11,8 @@ window.addEventListener("DOMContentLoaded", () => {
     imgSrc,
     imgAlt,
     title,
-    info,
-    subtitle,
+    hight,
+    country,
     description,
   }) {
     return ` 
@@ -23,11 +23,11 @@ window.addEventListener("DOMContentLoaded", () => {
       <h2 class="content-title">${title}</h2>
       <div class="content__info">
         <div class="content__param">Висота:</div>
-        <div class="content__value">${info}</div>
+        <div class="content__value">${hight}</div>
       </div>
       <div class="content__info">
         <div class="content__param">Розташування:</div>
-        <div class="content__value">${subtitle}</div>
+        <div class="content__value">${country}</div>
       </div>
       <p class="content__description">${description}</p>
     </div> 
