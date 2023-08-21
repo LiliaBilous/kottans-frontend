@@ -1,7 +1,8 @@
 window.addEventListener("DOMContentLoaded", () => {
   const sideMenuUl = document.querySelector(".side-menu__navigation-list");
   const contentBlock = document.querySelector(".main__content-block");
-  const menuLink = document.querySelector(".side-menu__navigation-item");
+  const burgerBtn = document.querySelector(".header__burger");
+  const sideMenuBurger = document.querySelector(".content__side-menu")
   let mountains = [];
   
   function menu_template({ id, title }) {
@@ -54,6 +55,10 @@ window.addEventListener("DOMContentLoaded", () => {
   }
   sideMenuUl.addEventListener("click", displaySelectedMountain)
 
+  burgerBtn.addEventListener("click", () => {
+    burgerBtn.classList.toggle("active");
+    sideMenuBurger.classList.toggle("active");
+  })
 
   fetch("/js/mountains.json")
     .then((response) => {
