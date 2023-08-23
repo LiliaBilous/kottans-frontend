@@ -48,18 +48,24 @@ window.addEventListener("DOMContentLoaded", () => {
     contentBlock.insertAdjacentHTML("beforeend", contentTemplate(mountain));
   }
 
-  function displaySelectedMountain (event) {
-    let mountainId = event.target.getAttribute("data-id");
+  function displaySelectedMountain (mountainId) {
     let selectedMountain = mountains.find((el) => el.id == mountainId);
     renderContent(selectedMountain);
   }
-  sideMenuUl.addEventListener("click", displaySelectedMountain)
+
+  sideMenuUl.addEventListener("click", (event) => {
+    let mountainId = event.target.getAttribute("data-id");
+    displaySelectedMountain(mountainId);
+    
+    burgerBtn.classList.remove("active");
+    sideMenuBurger.classList.remove("active");
+  })
 
   burgerBtn.addEventListener("click", () => {
     burgerBtn.classList.toggle("active");
     sideMenuBurger.classList.toggle("active");
   })
-
+  
   fetch("/js/mountains.json")
     .then((response) => {
       return response.json();
