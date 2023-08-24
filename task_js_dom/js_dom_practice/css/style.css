@@ -17,6 +17,10 @@ body {
     color: var(--white);
 }
 
+body.lock {
+    overflow: hidden;
+}
+
 .wrapper {
     min-height: 100%;
     min-width: 100%;
@@ -89,17 +93,12 @@ main {
 .main__content {
     display: flex;
     width: 100%;
-    overflow-y: auto;
 }
 /* ----------Side menu styles------------ */
 .content__side-menu {
     width: 18%;
-    position: relative;
+    position: fixed;
     left: 0;
-}
-.side-menu { 
-}
-.side-menu__navigation-list {
 }
 .side-menu__navigation-item {
     border: 1px solid var(--border);
@@ -110,18 +109,21 @@ main {
     padding: 15px;
     text-align: center;
     background-color: var(--dark);
-    margin-top: 1px;
-    /* border: 1px solid rgba(255, 253, 253, 0); */
+    /* margin-top: 1px; */
+    border: 1px solid rgba(255, 253, 253, 0);
     transition: all 500ms ease;
 }
 .side-menu__link:hover,
 .side-menu__link:focus {
     color: var(--blue);
+    border: 1px solid var(--blue);
 }
 
 /* ---------Content styles---------------*/
-.content_holder {
+.content__holder {
     width: 82%;
+    position: relative;
+    left: 18%;
 }
 .main__content-block {
     display: flex;
@@ -191,15 +193,14 @@ main {
         padding-left: 0.5rem;
     }
     .content__side-menu.active {
-        overflow-y: auto;
+        overflow: auto;
+        z-index: 5;
         display: block;
         visibility: visible;
-        opacity: 0.9;
+        opacity: 0.95;
         pointer-events: all;
         width: 100%;
         height: 100vh;
-        position: absolute;
-        top: 10vh;
         left: -100%;
         transition: transform 500ms ease-in-out;
     }
@@ -211,18 +212,12 @@ main {
         display: none;
     }
     .side-menu {
-        padding: 0;
+        padding: 0 0 10vh;
         margin: 0 auto;
     }
-    .side-menu__navigation-list {
-        display: flex;
-        flex-direction: column; 
-    }
-    .main__content {
-        flex-direction: column;
-    }
-    .content_holder {
+    .content__holder {
         width: 100%;
+        left:  0;
     }
     .main__content-block {
         display: flex;

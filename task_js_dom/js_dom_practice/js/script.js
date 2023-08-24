@@ -2,7 +2,7 @@ window.addEventListener("DOMContentLoaded", () => {
   const sideMenuUl = document.querySelector(".side-menu__navigation-list");
   const contentBlock = document.querySelector(".main__content-block");
   const burgerBtn = document.querySelector(".header__burger");
-  const sideMenuBurger = document.querySelector(".content__side-menu")
+  const sideMenuBurger = document.querySelector(".content__side-menu");
   let mountains = [];
   
   function menu_template({ id, title }) {
@@ -57,11 +57,13 @@ window.addEventListener("DOMContentLoaded", () => {
     let mountainId = event.target.getAttribute("data-id");
     displaySelectedMountain(mountainId);
     
+    document.body.classList.remove("lock");
     burgerBtn.classList.remove("active");
     sideMenuBurger.classList.remove("active");
   })
 
   burgerBtn.addEventListener("click", () => {
+    document.body.classList.toggle("lock");
     burgerBtn.classList.toggle("active");
     sideMenuBurger.classList.toggle("active");
   })
