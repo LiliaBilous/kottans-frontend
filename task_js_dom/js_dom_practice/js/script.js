@@ -6,7 +6,7 @@ window.addEventListener("DOMContentLoaded", () => {
   let mountains = [];
   
   function menu_template({ id, title }) {
-    return `<li class="side-menu__navigation-item"><button class="side-menu__link" data-id=${id}>${title}</button></li>\n`;
+    return `<button class="side-menu__link" data-id=${id}>${title}</button>\n`;
   }
   function contentTemplate({
     imgSrc,
