@@ -1,0 +1,55 @@
+.header {
+    background-color: var(--second-color);
+    height: 4.6em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 7px 15px -10px #4f4f4f;
+}
+/* -------Left header styles------ */
+.logo {
+    margin-left: 2rem;
+}
+.hooli-icon {
+    width: 15vw;
+    max-width: 5rem;
+    object-fit: cover;
+}
+/* -------Right header styles------ */
+.header-nav-menu {
+    width: 30%;
+    /* margin-right: 2rem; */
+}
+
+.nav-menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.nav-link {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: capitalize;
+    transition-duration: 0.5s;
+    padding: 10px 11px;
+    border: 1px solid var(--accent-color);
+}
+.nav-burger{
+    padding: 11px;
+    border: 1px solid var(--accent-color);
+}
+.nav-icon {
+    display: block;
+    border: solid 1px var(--accent-color);
+    padding: 0.5rem;
+    transition-duration: 0.5s;
+}
+
+.avatar-icon,
+.notf-icon {
+    width: 2rem;
+    height: 2rem;
+    object-fit: cover;
+    transition-duration: 0.5s;
+}
