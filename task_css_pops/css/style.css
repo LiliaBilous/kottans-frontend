@@ -1,8 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
-@import url(/css/reset.css);
-@import url(/css/main.css);
-@import url(/css/header.css);
-
 .nav-menu .nav-popup-input {
     display: block;
     height: 32px;
@@ -10,37 +5,16 @@
     z-index: 5;
     opacity: 0;
     cursor: pointer;
-  }
-.nav-burger .hamburger-lines {
-    height: 26px;
-    width: 32px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
 }
 
-.nav-burger .hamburger-lines .line {
-    display: block;
-    height: 4px;
-    width: 100%;
-    border-radius: 10px;
-    background: var(--text);
-}
-.nav-burger.hamburger-lines.line:hover {
-    color: var(--accent-color);
-}
-.nav-burger .hamburger-lines .line1 {
-    transform-origin: 0% 0%;
-    transition: transform 0.4s ease-in-out;
+.nav-burger {
+
 }
 
-.nav-burger .hamburger-lines .line2 {
-    transition: transform 0.2s ease-in-out;
-}
-
-.nav-burger .hamburger-lines .line3 {
-    transform-origin: 0% 100%;
-    transition: transform 0.4s ease-in-out;
+.nav-burger-img {
+    width: 2rem;
+    height: 2rem;
+    object-fit: contain;
 }
 
 .popup-menu-icon,
@@ -118,7 +92,7 @@
     color: var(--text);
     background: var(--second-color);
     border-radius: 1rem;
-    text-transform: uppercase ;
+    text-transform: uppercase;
 }
 
 .more-button {
@@ -140,11 +114,6 @@
 
 
 /* hover */
-.nav-item:hover {
-    color: var(--accent-color);
-    transition-duration: 500ms;
-}
-
 .popup-menu-link:hover,
 .more-popup-link:hover {
     color: var(--accent-color);
@@ -162,30 +131,12 @@
     transition-duration: 500ms;
 }
 
-
-
 /* focus */
-.nav-link:focus,
-.nav-icon:focus,
-.link-kottans:focus {
-    outline: none;
-    border: solid 1px var(--second-color);
-    border-radius: 1rem;
-    padding: 0.5rem;
-}
-
 .popup-menu-link:focus,
 .more-popup-link:focus {
     outline: none;
     border: solid 1px var(--second-color);
     border-radius: 1rem;
-    padding: 0.5rem;
-}
-
-.nav-popup-input:focus~.popup-menu {
-    border: solid 1px var(--second-color);
-    border-radius: 1rem;
-    padding: 0.5rem;
 }
 
 /* скрол popup */

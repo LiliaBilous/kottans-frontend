@@ -10,46 +10,80 @@
 .logo {
     margin-left: 2rem;
 }
+
 .hooli-icon {
-    width: 15vw;
-    max-width: 5rem;
-    object-fit: cover;
-}
-/* -------Right header styles------ */
-.header-nav-menu {
-    width: 30%;
-    /* margin-right: 2rem; */
+    fill: #000000;
+    width: 9rem;
+    height: 5em;
 }
 
+
+/* ------------------------------- */
+.header-nav-menu {
+    width: 30%;
+}
 .nav-menu {
     display: flex;
     flex-direction: row;
     align-items: center;
 }
-
+.nav-item {
+    padding: 10px 11px;
+    border: 1px solid transparent;
+    border-radius: 1rem;
+}
 .nav-link {
     font-size: 1.5em;
     font-weight: bold;
     text-transform: capitalize;
-    transition-duration: 0.5s;
-    padding: 10px 11px;
-    border: 1px solid var(--accent-color);
-}
-.nav-burger{
-    padding: 11px;
-    border: 1px solid var(--accent-color);
+    transition: all 500ms ease-in-out;
 }
 .nav-icon {
     display: block;
-    border: solid 1px var(--accent-color);
-    padding: 0.5rem;
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+    border: 1px solid transparent;
+    border-radius: 1rem;
     transition-duration: 0.5s;
+}
+.nav-popup-input {
+}
+.nav-burger {
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    fill: #000000;
+    transition-duration: 0.5s;
+}
+.nav-notification,
+.avatar-icon {
+    width: 40px;
+    height: 40px;
+    fill: none;
+    stroke: #000000;
+    transition-duration: 0.5s;
+}
+ 
+.nav-item:hover,
+.nav-icon:hover {
+    color: var(--accent-color);
+    border: 1px solid var(--text);
 }
 
-.avatar-icon,
-.notf-icon {
-    width: 2rem;
-    height: 2rem;
-    object-fit: cover;
-    transition-duration: 0.5s;
+.hooli-icon:hover,
+.nav-burger:hover {
+    fill: var(--accent-color);
 }
+.nav-notification:hover,
+.avatar-icon:hover {
+    stroke: var(--accent-color);
+
+}
+.nav-item:focus,
+.nav-icon:focus {
+    padding: 5px;
+    outline: none;
+    border: solid 1px var(--text);
+    border-radius: 1rem;
+} 

@@ -1,8 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
+@import url(/css/reset.css);
+@import url(/css/style.css);
+@import url(/css/header.css);
+
 :root {
-    --text: #000000;
-    --main-color: #FAF3E3;
-    --accent-color: #FF9F29;
-    --second-color: #1A4D2E;
+    --text: #161616;
+    --main-color: #ECDBBA;
+    --accent-color: #C84B31;
+    --second-color: #346751;
 }
 
 body {
@@ -41,24 +46,32 @@ body {
 }
 
 .link-kottans {
-    padding-right: 2rem;
     text-transform: uppercase;
     font-weight: bold;
+    padding: 0.5rem;
+    border: 1px solid transparent;
 }
 
+.foooter-link:hover,
 .link-kottans:hover {
     color: var(--accent-color);
     transition-duration: 0.5s;
+}
+
+.link-kottans:focus,
+.foooter-link:focus {
+    outline: none;
+    border: 1px solid var(--text);
+    border-radius: 1rem;
 }
 /* -------footer------- */
 .footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: medium;
     margin-bottom: 20px;
 }
 
-.foooter-link:hover {
-    color: var(--accent-color);
+.foooter-link {
+    padding: 0.5rem;
 }
