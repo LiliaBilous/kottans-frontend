@@ -1,22 +1,22 @@
 .header {
+    max-width: 100%;
     background-color: var(--second-color);
-    height: 4.6em;
+    height: 5rem;
+    padding: 0 2rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
     box-shadow: 0 7px 15px -10px #4f4f4f;
 }
-/* -------Left header styles------ */
+
 .logo {
     margin-left: 2rem;
 }
 
 .hooli-icon {
-    fill: #000000;
     width: 9rem;
     height: 5em;
 }
-
 
 /* ------------------------------- */
 .header-nav-menu {
@@ -25,6 +25,7 @@
 .nav-menu {
     display: flex;
     flex-direction: row;
+    justify-content: flex-end;
     align-items: center;
 }
 .nav-item {
@@ -42,29 +43,20 @@
     display: block;
     width: 50px;
     height: 50px;
-    padding: 5px;
+    padding: 10px;
     border: 1px solid transparent;
     border-radius: 1rem;
-    transition-duration: 0.5s;
+    transition: all 500ms ease-in-out;
 }
-.nav-popup-input {
-}
-.nav-burger {
-    width: 40px;
-    height: 40px;
-    padding: 5px;
-    fill: #000000;
-    transition-duration: 0.5s;
-}
-.nav-notification,
+
 .avatar-icon {
-    width: 40px;
-    height: 40px;
     fill: none;
     stroke: #000000;
-    transition-duration: 0.5s;
+    width: 3rem;
+    height: 3rem;
 }
- 
+
+
 .nav-item:hover,
 .nav-icon:hover {
     color: var(--accent-color);
@@ -72,18 +64,10 @@
 }
 
 .hooli-icon:hover,
-.nav-burger:hover {
+.icon-wrapper:hover svg.nav-burger,
+.icon-wrapper:hover svg.nav-notification {
     fill: var(--accent-color);
 }
-.nav-notification:hover,
-.avatar-icon:hover {
+.icon-wrapper:hover svg.avatar-icon {
     stroke: var(--accent-color);
-
 }
-.nav-item:focus,
-.nav-icon:focus {
-    padding: 5px;
-    outline: none;
-    border: solid 1px var(--text);
-    border-radius: 1rem;
-} 

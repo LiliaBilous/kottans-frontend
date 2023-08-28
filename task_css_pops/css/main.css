@@ -9,6 +9,13 @@
     --accent-color: #C84B31;
     --second-color: #346751;
 }
+:focus {
+    outline: 0;
+}
+
+svg {
+    fill: #000000;
+}
 
 body {
     background-color: var(--main-color);
