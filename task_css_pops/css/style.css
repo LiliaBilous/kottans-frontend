@@ -1,3 +1,79 @@
+/* ------header icons style ------ */
+.header {
+    max-width: 100%;
+    background-color: var(--second-color);
+    height: 5rem;
+    padding: 0 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 7px 15px -10px #4f4f4f;
+}
+
+.hooli-icon {
+    width: 9rem;
+    height: 5em;
+}
+
+/* ------------------------------- */
+.header-nav-menu {
+    /* width: 30%; */
+}
+.nav-menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+.nav-item {
+    padding: 10px 11px;
+    border: 1px solid transparent;
+    border-radius: 1rem;
+}
+.nav-link {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: capitalize;
+    transition: all 500ms ease-in-out;
+}
+.nav-icon {
+    display: block;
+    width: 4rem;
+    height: 4rem;
+    /* padding: 10px; */
+}
+.icon-wrapper {
+    padding: 10px;
+    border: 1px solid transparent;
+    border-radius: 1rem;   
+    transition: all 500ms ease-in-out;
+}
+
+.avatar-icon,
+.nav-notification {
+    fill: none;
+    stroke: #000000;
+}
+.nav-item:hover,
+.nav-icon:hover {
+    color: var(--accent-color);
+    border: 1px solid var(--text);
+}
+.nav-item:focus,
+.nav-wrapper:focus {
+    outline: 1px solid var(--text);
+}
+.hooli-icon:hover,
+.icon-wrapper:hover svg.nav-burger,
+.icon-wrapper:hover svg.avatar-icon {
+    fill: var(--accent-color);
+}
+.icon-wrapper:hover svg.nav-notification,
+.icon-wrapper:hover svg.avatar-icon {
+    stroke: var(--accent-color);
+}
+/* ------ ---------- ------ */
+
 .nav-menu .nav-popup-input {
     display: block;
     height: 32px;
@@ -5,16 +81,6 @@
     z-index: 5;
     opacity: 0;
     cursor: pointer;
-}
-
-.nav-burger {
-
-}
-
-.nav-burger-img {
-    width: 2rem;
-    height: 2rem;
-    object-fit: contain;
 }
 
 .popup-menu-icon,
@@ -30,22 +96,22 @@
     position: absolute;
     overflow: auto;
     z-index: 2;
-    top: 5rem;
+    top: 5.5rem;
     right: 1rem;
     height: 27rem;
-    width: 22rem;
+    width: 20rem;
     background-color: var(--main-color);
     box-shadow: 0 7px 15px -10px #4f4f4f;
     border: 1px solid var(--second-color);
     border-radius: 10px;
-    transition-duration: 500ms;
+    transition: all 500ms ease-in-out;
 }
 
 .main-popup-menu {
     display: grid;
     grid-template-columns: 33.3% 33.3% 33.3%;
     justify-items: center;
-    padding: 1em;
+    padding: 0.8rem;
     grid-row-gap: 1em;
     overflow: auto;
 }
@@ -75,11 +141,11 @@
     width: 6rem;
     height: 6rem;
     border: solid 1px transparent;
-    border-radius: 10px;
+    border-radius: 1rem;
     color: var(--text);
     text-transform: capitalize;
     font-size: 1em;
-    transition-duration: 0.5s;
+    transition: all 500ms ease-in-out;
 }
 
 .nav-popup-more-label {
@@ -89,15 +155,15 @@
     cursor: pointer;
     height: 2.5rem;
     width: 18rem;
-    color: var(--text);
     background: var(--second-color);
     border-radius: 1rem;
-    text-transform: uppercase;
+    text-transform:capitalize ;
 }
 
 .more-button {
     grid-area: 5/1/5/4;
-    justify-content: center;
+    display: grid;
+    justify-items: center;
 }
 
 .more-button-container {
@@ -113,30 +179,28 @@
 
 
 
-/* hover */
+/* ------ hover ------*/
 .popup-menu-link:hover,
 .more-popup-link:hover {
     color: var(--accent-color);
     background-color: var(--second-color);
-    border: solid 2px var(--second-color);
-    border-radius: 1rem;
+    border: solid 1px var(--text);
     padding: 0.5rem;
-    transition-duration: 500ms;
 }
 
 .nav-popup-more-label:hover {
     color: var(--accent-color);
-    border: solid 2px var(--second-color);
-    border-radius: 1rem;
-    transition-duration: 500ms;
+    border: solid 1px var(--text);
+    /* border-radius: 1rem; */
+    transition: all 500ms ease-in-out;
 }
 
-/* focus */
+/* ------ focus ------ */
+
 .popup-menu-link:focus,
 .more-popup-link:focus {
-    outline: none;
-    border: solid 1px var(--second-color);
-    border-radius: 1rem;
+    outline: solid 1px var(--text);
+
 }
 
 /* скрол popup */
@@ -154,28 +218,62 @@
     border-radius: 15px;
 }
 
-/* адаптив */
-@media (max-width: 560px) {
+/* ------ адаптив ------ */
+
+@media (max-width: 590px) {
+    .header {
+        justify-content: flex-end;
+    }
     .logo {
-        visibility: hidden;
+        display: none;
     }
 
     .body-target {
         text-align: center;
         font-size: 1em;
     }
-
     .nav-item {
         margin: 0 0.1rem;
-    }
-
-    .nav-link {
-        font-size: 1em;
-        padding: 0.2rem;
     }
 
     .footer {
         flex-direction: column;
         font-size: 1em;
     }
+}
+@media (max-width: 425px) {
+    .header {
+        padding: 0 1rem;
+    }
+    .header-nav-menu {
+        width: 90%;
+    }
+    .nav-item {
+        margin: 0;
+    }
+    .nav-link {
+        font-size: 1em;
+    }
+    .main-popup-menu {
+        padding: 0.3rem;
+        grid-row-gap: 0.5em;
+    }
+}
+@media (max-width: 375px) {
+    .popup-menu {
+        height: 25rem;
+        width: 18rem;
+    }
+    .popup-menu-link, .more-popup-link {
+        
+        padding: 0.5rem;
+        width: 4rem;
+        height: 4rem;
+}
+.nav-popup-more-label {
+    
+    height: 2.5rem;
+    width: 15rem;
+    
+ }
 }

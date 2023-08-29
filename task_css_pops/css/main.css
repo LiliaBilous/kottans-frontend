@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
 @import url(/css/reset.css);
 @import url(/css/style.css);
-@import url(/css/header.css);
+
 
 :root {
     --text: #161616;
@@ -9,13 +9,7 @@
     --accent-color: #C84B31;
     --second-color: #346751;
 }
-:focus {
-    outline: 0;
-}
 
-svg {
-    fill: #000000;
-}
 
 body {
     background-color: var(--main-color);
@@ -81,4 +75,20 @@ body {
 
 .foooter-link {
     padding: 0.5rem;
+}
+
+/* -------main scroll------- */
+
+::-webkit-scrollbar-track {
+    background-color: transparent;
+    border-radius: 15px;
+}
+
+::-webkit-scrollbar {
+    width: 0.5rem;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--second-color);
+    border-radius: 15px;
 }
