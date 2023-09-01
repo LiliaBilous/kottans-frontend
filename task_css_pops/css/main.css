@@ -2,6 +2,9 @@
 @import url(/css/reset.css);
 @import url(/css/style.css);
 
+*:focus {
+    outline: none;
+}
 
 :root {
     --text: #161616;
@@ -47,6 +50,7 @@ body {
 }
 
 .link-kottans {
+    text-align: center;
     text-transform: uppercase;
     font-weight: bold;
     padding: 0.5rem;
