@@ -205,10 +205,10 @@
   ![JavaScript DOM](task_js_dom/FCC_JS_IntermediateAlgorithm12-18.png)
 </details>
 
-- [ ] 3.then() Практичне завдання:
+- [X] 3.then() Практичне завдання:
 
-[Demo]( ) |
-[Code]( )
+[Demo](https://liliabilous.github.io/kottans-dom-practice/index.html) |
+[Code](https://github.com/LiliaBilous/kottans-dom-practice)
 
 # Advanced Topics
 #### Додаткові матеріали
@@ -250,4 +250,4 @@
 - [ ] [JavaScript Equality Table Game](https://eqeq.js.org/)
 - [ ] [JavaScript-Equality-Table](https://dorey.github.io/JavaScript-Equality-Table/)
 - [ ] [The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery)](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/)
-- [ ] [JavaScript DOM Crash Course by Brad Traversy](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
+- [X] [JavaScript DOM Crash Course by Brad Traversy](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
