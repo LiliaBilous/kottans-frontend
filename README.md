@@ -2,7 +2,7 @@
 
 # General
 
-## 0.Git Basics
+## 0. [Git Basics](tasks/git-intro.md)
 
 - [x] 1. Прослухайте тижні 1 і 2 курсу Introduction to Git and GitHub
 <details>
@@ -26,7 +26,7 @@
 В принципі з GIT була знайома, але використовувала мабудь лише 10% його можливостей. В основному працювала на GitHub Desktop.
 Не знала що в GIT можна редагувати та форматувати текст(Basic writing and formatting syntax) буду використовувати :)
 
-## 1.Linux CLI, and HTTP
+##  1. [Linux CLI and Networking](tasks/linux-cli-http.md)
 
 - [x] 1. Linux Survival (4 modules)
 <details>
@@ -48,7 +48,7 @@
 <br>Планую в майбутньому частіше користуватись терміналом. <br>
 Про HTTP протоколи раніше слухала лекції [Просто Web](https://www.youtube.com/watch?v=ByJl2IcWSfc&list=PLcIcVZ3JhM-gsEmYSzhXy97jV8g5V1O3l) і щиро рекомендую їх для додаткового перегляду, дуже круті!)
 
-## 2.Git Collaboration
+## 2. [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
 
 - [x] 1. Прослухайте тижні 3 і 4 курсу Introduction to Git and GitHub.
 
@@ -74,7 +74,7 @@
 
 # Front-End Basics
 
-## 3.Intro to HTML & CSS
+## 3. [Intro to HTML & CSS](tasks/html-css-intro.md)
 
 - [x] 1. Прослухайте тижні 1 і 2 (до Introduction to Responsive Design) курсу [Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 <details>
@@ -106,7 +106,7 @@
 Також вперше дізналась про breakpoints в адаптивному дизайні на майбутнє планую вивчити та використовувати адаптив у своїх проектах ☺️
 
 
-## 4.Адаптивний Web Design
+## 4. [Responsive Web Design](tasks/html-css-responsive.md)
 
 - [x] 1. [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)
 
@@ -131,12 +131,12 @@
 Якщо з Flexbox раніше я була знайома і з ним проблем нби не виникало, а то Grid були для мене мало доступні. Зараз завдяки курсам [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm) все стало набагато зрозуміліше.
 До котанів як раз зупинилась з вивченням CSS на грідах, сподіваюсь тепер я як раз зможу закрити макет по Флексам/Грідам....ну і мене чекає Hooli-style Popup
 
-## 5.HTML і CSS практика: Hooli-style Popup
+##  5. [HTML & CSS Practice](tasks/html-css-popup.md)
 
 [Demo](https://liliabilous.github.io/popup-practice/) |
 [Code](https://github.com/LiliaBilous/popup-practice)
 
-## 6.JavaScript Basics
+##  6. [JavaScript Basics](tasks/js-basics.md)
 
 - [x] 1. [Вступ до JS](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4)
 
@@ -186,7 +186,7 @@
 + що буду використовувати в майбутньому: синтаксис ES6 особливо стрілкові функції(краса і лаконічність - 2 в 1) та продовжувати поглиблювати знання з JS.
 
 
-## 7.Document Object Model - practice
+## 7. [Document Object Model](tasks/js-dom.md) - practice
 Дізнайтеся деякі frontend основи про DOM API:
 - [X] 1. Прослухайте тільки розділ [Document Object Model Manipulation](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/5)
 
@@ -211,6 +211,21 @@
 [Code](https://github.com/LiliaBilous/kottans-dom-practice)
 
 # Advanced Topics
+
+## 8. [Building a Tiny JS World (pre-OOP)](tasks/js-pre-oop.md) - practice
+
+[Deno]() | [Code]()
+
+
+ 
+ 9. [Object oriented JS](tasks/js-oop.md) - practice
+ 10. [OOP exercise](tasks/js-post-oop.md) - practice
+11. [Offline Web Applications](tasks/app-design-offline.md) - optional
+12. [Memory pair game](tasks/memory-pair-game.md) — real project!
+13. [Website Performance Optimization](tasks/app-design-performance.md) - optional
+14. [Friends App](tasks/friends-app.md) - real project!
+
+
 #### Додаткові матеріали
 
 - [x] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
