@@ -98,16 +98,15 @@ main {
 /* ----------Side menu styles------------ */
 .content__side-menu {
     width: 20%;
-    height: calc(100% - var(--header-height) - 5vh);
+    height: 100%;
     position: fixed;
     left: 0;
     top: var(--header-height);
     overflow-y: scroll;
-    /* display: flex;
-    flex-direction: column; */
 }
 .side-menu__navigation-list {
     min-height: 100%;
+    height: calc(100% - var(--header-height) - 5vh);
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
